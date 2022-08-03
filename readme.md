@@ -6,5 +6,5 @@ Feel free to create issues for feedbacks, suggession, etc.
 
 ---
 
-为防止版权冲突，禁止在本仓库中上传或提交来源不明的内容！
+为防止版权冲突，禁止在本仓库中上传或提交来源不明的内容！\
 DO NOT upload or submit unknown or dubious sources in order to prevent copyrights!
