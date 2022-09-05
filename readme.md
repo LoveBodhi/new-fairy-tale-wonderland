@@ -1,3 +1,8 @@
+**声明：本工程处于间歇期，直到添加月尘人物校正器的反转功能。**\
+**Disclaimer: This project is in the hiatus until Moondust Character Flip Option.**
+
+---
+
 只使用按照自由许可协议发布的组件。我们也尽可能地从头制作素材。\
 Only use freely-licensed assets. We will try to draw graphics from scratch.
 
