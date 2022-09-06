@@ -1,5 +1,5 @@
 **声明：本工程处于间歇期，直到添加月尘人物校正器的反转功能。**\
-**Disclaimer: This project is in the hiatus until Moondust Character Flip Option.**
+**Disclaimer: This project is in the hiatus until Moondust Calibrator Flip Option.**
 
 ---
 
