@@ -13,3 +13,8 @@ Feel free to create issues for feedbacks, suggession, etc.
 
 为防止版权冲突，禁止在本仓库中上传或提交来源不明的内容！\
 DO NOT upload or submit unknown or dubious sources in order to prevent conflict with copyrights!
+
+---
+
+本组件采用 Expat (MIT) 许可协议发布。\
+This asset is licensed under Expat (MIT) license.
