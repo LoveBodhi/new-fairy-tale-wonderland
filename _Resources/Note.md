@@ -1,0 +1,1 @@
+All files, unless noted, are licensed under MIT (aka Expat).
