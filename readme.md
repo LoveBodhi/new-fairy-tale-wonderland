@@ -16,5 +16,5 @@ DO NOT upload or submit unknown or dubious sources in order to prevent conflict 
 
 ---
 
-本组件采用 Expat (MIT) 许可协议发布。本组件的部分内容来自其他采用 CC0 许可协议的资源。\
-This asset is licensed under Expat (MIT) license. Some parts of this asset cames from CC0 licensed resources.
+本组件采用 知识共享-署名 4.0 国际 许可协议发布。本组件的部分内容来自其他采用 CC0 许可协议的资源。\
+This asset is licensed under Creative Commons BY 4.0 license. Some parts of this asset cames from CC0 licensed resources.
