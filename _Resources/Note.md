@@ -1,1 +1,1 @@
-All files, unless noted, are licensed under MIT (aka Expat).
+All files, unless noted, are licensed under Creative Commons BY 4.
